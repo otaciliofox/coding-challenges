@@ -26,7 +26,7 @@ Coding Challenges
 ## :rocket: About this project
 
 <br />
-This app features all the latest tools and practices in mobile development!
+The purpose of this repository is to improve my skills as a dev by solving challenges that I encounter all over the internet, using the technologies I master.
 <br />
 <br />
 
@@ -58,7 +58,7 @@ nameShuffle("Linus Torvalds") ⟶ "Torvalds Linus"
 nameShuffle("Rosie O'Donnell") ⟶ "O'Donnell Rosie"
 
 <div align="center">
-     <img src="./github/01-shufle-the-name.svg" alt="picture code: shufle the name" width="500">
+     <img src="./github/01-shufle-the-name.svg" alt="picture code: shufle the name" width="700">
 </div>
 
 <br />
@@ -117,7 +117,7 @@ sevenBoom([8, 6, 33, 100]) ⟶ "there is no 7 in the array"
 sevenBoom([2, 55, 60, 97, 86]) ⟶ "Boom!"
 
 <div align="center">
-     <img src="./github/04-seven-boom.svg" alt="picture code: Seven Boom!" width="600">
+     <img src="./github/04-seven-boom.svg" alt="picture code: Seven Boom!" width="700">
 </div>
 
 <br />
