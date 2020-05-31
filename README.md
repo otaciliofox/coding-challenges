@@ -1,4 +1,3 @@
-<div style="background-color: #312e38; color: #fff;padding:15px;">
 <div align="center">
      <img src="./github/logo.svg" alt="logo this repository" width="440">
 </div>
@@ -160,5 +159,3 @@ This project is licensed under the MIT License - see the details in <a href="htt
 ---
 
 Make with :purple_heart:
-
-</div>
