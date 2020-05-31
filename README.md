@@ -1,5 +1,5 @@
 <div align="center">
-     <img src="github/logo.svg" alt="logo this repository" width="440">
+     <img src="./github/logo.svg" alt="logo this repository" width="440">
 </div>
 
 <h1 align="center">
@@ -58,7 +58,7 @@ nameShuffle("Linus Torvalds") ⟶ "Torvalds Linus"
 nameShuffle("Rosie O'Donnell") ⟶ "O'Donnell Rosie"
 
 <div align="center">
-     <img src="github/01-shufle-the-name.svg" alt="picture code: shufle the name" width="500">
+     <img src="./github/01-shufle-the-name.svg" alt="picture code: shufle the name" width="500">
 </div>
 
 <br />
@@ -78,7 +78,7 @@ isFourLetters(["kangaroo", "Bear", "Fox"]) ⟶ ["Fox"]
 isFourLetters(["Ryan", "Kieran", "Jason", "Matt"]) ⟶ ["ryan", "Matt"]
 
 <div align="center">
-     <img src="github/02-four-letter-string.svg" alt="picture code: shufle the name" width="880">
+     <img src="./github/02-four-letter-string.svg" alt="picture code: Four letter String" width="880">
 </div>
 
 <br />
@@ -96,7 +96,7 @@ negate([1, 2, 3, 4]) ⟶ [-1, -2, -3, -4]
 negate([-1, -2, -3, -4]) ⟶ [1, 2, 3, 4]
 
 <div align="center">
-     <img src="github/03-negate-array-string.svg" alt="picture code: shufle the name" width="700">
+     <img src="./github/03-negate-array-string.svg" alt="picture code: Negate the Array of Numbers" width="700">
 </div>
 
 <br />
@@ -117,7 +117,7 @@ sevenBoom([8, 6, 33, 100]) ⟶ "there is no 7 in the array"
 sevenBoom([2, 55, 60, 97, 86]) ⟶ "Boom!"
 
 <div align="center">
-     <img src="github/04-seven-boom.svg" alt="picture code: shufle the name" width="600">
+     <img src="./github/04-seven-boom.svg" alt="picture code: Seven Boom!" width="600">
 </div>
 
 <br />
@@ -145,7 +145,7 @@ largestSwap(53) ⟶ <strong>true</strong>
 largestSwap(99) ⟶ <strong>true</strong>
 
 <div align="center">
-     <img src="github/05-largest-swap.svg" alt="picture code: shufle the name" width="750">
+     <img src="./github/05-largest-swap.svg" alt="picture code: Largest Swap" width="750">
 </div>
 
 <br />
